@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\BitFlyerTest\BitFlyerTest\bin\Debug\BitFlyerTest.exe.config
+c:\users\user\documents\visual studio 2015\Projects\BitFlyerTest\BitFlyerTest\bin\Debug\BitFlyerTest.exe
+c:\users\user\documents\visual studio 2015\Projects\BitFlyerTest\BitFlyerTest\bin\Debug\BitFlyerTest.pdb
+c:\users\user\documents\visual studio 2015\Projects\BitFlyerTest\BitFlyerTest\obj\Debug\BitFlyerTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\BitFlyerTest\BitFlyerTest\obj\Debug\BitFlyerTest.exe
+c:\users\user\documents\visual studio 2015\Projects\BitFlyerTest\BitFlyerTest\obj\Debug\BitFlyerTest.pdb
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\bin\Debug\BitFlyerTest.exe.config
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\bin\Debug\BitFlyerTest.exe
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\bin\Debug\BitFlyerTest.pdb
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\obj\Debug\BitFlyerTest.csproj.AssemblyReference.cache
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\obj\Debug\BitFlyerTest.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\obj\Debug\BitFlyerTest.csproj.CoreCompileInputs.cache
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\obj\Debug\BitFlyerTest.exe
+D:\Workspace\git_repo\bit-flyer\BitFlyerTest\obj\Debug\BitFlyerTest.pdb
